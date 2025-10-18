@@ -1,0 +1,28 @@
+html {
+    background-color: black;
+}
+
+#main-image {
+    width: 100%;
+    border: 5px solid white;
+}
+
+#main-section {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+
+#title {
+    text-transform: uppercase;
+    font-size: 2rem;
+}
+
+
+.fancy-text {
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+    color: white;
+}
+
+
