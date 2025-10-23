@@ -1,0 +1,26 @@
+html {
+    background-color: #313244;
+}
+
+#website-title {
+    font-family: "Press Start 2P", system-ui;
+    color: #c6a0f6;
+    font-size: 20px;
+}
+
+hr {
+    border: 2px solid #b8c0e0;
+}
+body {
+    font-family: 'Source Code Pro', monospace;
+    color: #b7bdf8;
+}
+
+a {
+    text-decoration: none;
+    color: #8aadf4;
+}
+
+a:hover {
+    color: #f5bde6;
+}
