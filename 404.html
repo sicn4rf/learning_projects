@@ -12,10 +12,12 @@
 
       const path = window.location.pathname.substring(1).toLowerCase();
 
+      console.log(path);
+
       const redirection = redirect[path];
 
       if (redirection) {
-        window.location.replace(redirection);
+        window.location.replace("learning_projects/" + redirection);
       }
     </script>
   </head>
